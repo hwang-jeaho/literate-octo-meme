@@ -1,0 +1,10 @@
+package sub1
+
+import javafx.scene.layout.AnchorPane
+import sub1.UserController
+
+component User controlledby UserController {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}
